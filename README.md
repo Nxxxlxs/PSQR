@@ -1,8 +1,8 @@
 # Product Quality Assessment - Estudo de Caso em QA
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nxxxlxs/PSQR/refs/heads/assets/gifs/assets/produto1.gif" width="450" height="300"/>
-  <img src="https://raw.githubusercontent.com/Nxxxlxs/PSQR/refs/heads/assets/gifs/assets/produto2.gif" width="450" height="300"/>
+  <img src="https://raw.githubusercontent.com/Nxxxlxs/PSQR/refs/heads/main/assets/produto1.gif" width="450" height="300"/>
+  <img src="https://raw.githubusercontent.com/Nxxxlxs/PSQR/refs/heads/main/assets/produto2.gif" width="450" height="300"/>
 </div>
 
 ## Visão Geral
