@@ -1,5 +1,10 @@
 # Product Quality Assessment - Estudo de Caso em QA
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nxxxlxs/PSQR/refs/heads/assets/gifs/assets/produto1.gif" width="450" height="300"/>
+  <img src="https://raw.githubusercontent.com/Nxxxlxs/PSQR/refs/heads/assets/gifs/assets/produto2.gif" width="450" height="300"/>
+</div>
+
 ## Visão Geral
 
 Este repositório contém um estudo prático de QA focado em análise funcional, testes exploratórios, documentação de defeitos e gerenciamento de issues realizados sobre duas aplicações web.
