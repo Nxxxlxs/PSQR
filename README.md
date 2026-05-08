@@ -221,4 +221,5 @@ QA Engineer com foco em:
 - Melhoria Contínua
 
 LinkedIn: www.linkedin.com/in/nxxxlxs
+
 GitHub: https://github.com/Nxxxlxs
